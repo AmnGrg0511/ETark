@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/AmnGrg0511/ETark/issues"
   },
-  "homepage": "https://github.com/AmnGrg0511/ETark#readme"
+  "homepage": "https://github.com/AmnGrg0511/ETark#readme",
+  "engines": {
+    "node": "14.x"
+  }
 }
