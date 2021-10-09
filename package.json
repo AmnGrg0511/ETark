@@ -1,0 +1,31 @@
+{
+  "name": "etarkproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AmnGrg0511",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.10"
+  },
+  "description": "This is a project done as an assignment for ETark",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AmnGrg0511/ETark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmnGrg0511/ETark/issues"
+  },
+  "homepage": "https://github.com/AmnGrg0511/ETark#readme"
+}
